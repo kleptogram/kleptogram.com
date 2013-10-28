@@ -1,0 +1,14 @@
+{
+  "name": "kleptogram.com",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "coffee app.coffee"
+  },
+  "dependencies": {
+    "express": "3.4.3",
+    "ejs": "*",
+    "stylus": "*",
+    "coffee-script": "~1.6.3"
+  }
+}
